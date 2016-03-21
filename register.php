@@ -19,8 +19,8 @@
 
 	<nav>
 		<ul>
-			<li><a href="../index.html">Home Page</a></li>
-			<li><a href="../login.html">Login</a></li>
+			<li><a href="../index.php">Home Page</a></li>
+			<li><a href="../submit.php">Submit</a></li>
 			<li><a href="register.php">Register</a></li>
 		</ul>
 	</nav>
