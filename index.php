@@ -8,13 +8,16 @@ $content = '<img src="Image/bug.jpg" class="imgLeft" />
     while writing software.These include
 </p>
 
-
-
-
-
-
-
 <img src="Images/coffee2.png" class="imgRight"/>
+
+
+
+
+
+
+
+
+
 <h3>Title 2</h3>
 <p>
     Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
