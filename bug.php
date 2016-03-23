@@ -12,8 +12,6 @@ include("connection.php");
     </ul>
 </nav>
 
-<body>
-
 <header>
     <h1>Enter Bug details below!!!</h1>
 
@@ -84,18 +82,10 @@ include("connection.php");
                     <input name="fixed" type="text" class="input" size="25" required />
                 </td>
             </tr>
-            
+
         </table>
     </fieldset>
 </form>
-
-<head>
-    <meta charset="utf-8">
-    <title>Bug Entry Form</title>
-    <link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css">
-</head>
-
-<body>
 
 <header>
     <h1>Enter your comments related to Bug!</h1>
