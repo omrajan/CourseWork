@@ -16,7 +16,7 @@
                     <li><a href="register.php">Register here</a></li>
                     <li><a href="bug.php">Bug</a></li>
                     <li><a href="comment.php">Comment</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="login/index.php">Login</a></li>
                 </ul>
             </nav>
             
