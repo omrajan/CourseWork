@@ -24,8 +24,8 @@ body p
     background-image: url(../Image/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    border: 5px solid #dedede;    
-    height: 200px;
+    border: 6px solid #dedede;
+    height: 300px;
 }
 
 #content_area
@@ -34,16 +34,6 @@ body p
     width: 750px;
     margin: 20px 0 20px 0;
     padding: 10px;
-}
-
-#sidebar
-{
-    float: right;
-    width: 250px;
-    height: 400px;
-    margin: 20px 10px;
-    padding: 10px;
-    border: 2px solid #E3E3E3;
 }
 
 footer
