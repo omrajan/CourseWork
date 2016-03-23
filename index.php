@@ -1,6 +1,6 @@
 <?php
 $title = "Home";
-$content = '<img src="Images/coffee1.png" class="imgLeft" />
+$content = '<img src="Image/bug.png" class="imgLeft" />
 <h3>Our Goal</h3>
 <p>
     Our Bug Entry System is mainly designed to track all kind of Bugs that has been logged

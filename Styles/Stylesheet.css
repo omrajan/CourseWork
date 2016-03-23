@@ -21,7 +21,7 @@ body p
 
 #banner
 {
-    background-image: url(../Images/banner.jpg);
+    background-image: url(../Image/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border: 5px solid #dedede;    
