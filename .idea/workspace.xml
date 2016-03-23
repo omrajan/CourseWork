@@ -86,7 +86,7 @@
       <file leaf-file-name="Stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Styles/Stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.451612">
+            <state vertical-scroll-proportion="36.419353">
               <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding />
             </state>
@@ -96,12 +96,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51703876">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.25851938">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
-                <marker date="1458705231612" expanded="true" signature="99:320" placeholder="..." />
-                <marker date="1458705231612" expanded="true" signature="400:1262" placeholder="..." />
-                <marker date="1458705231612" expanded="true" signature="1333:1800" placeholder="..." />
+                <marker date="1458706723620" expanded="true" signature="99:320" placeholder="..." />
+                <marker date="1458706723620" expanded="true" signature="392:468" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -112,16 +111,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-15.612904">
               <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comment.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comment.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-27.967741">
-              <caret line="84" column="72" selection-start-line="84" selection-start-column="72" selection-end-line="84" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -512,7 +501,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458704971827</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added registration">
+      <created>1458705242459</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1458705242459</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -624,9 +619,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1458705231612" expanded="true" signature="99:320" placeholder="..." />
-            <marker date="1458705231612" expanded="true" signature="400:1262" placeholder="..." />
-            <marker date="1458705231612" expanded="true" signature="1333:1800" placeholder="..." />
+            <marker date="1458706723620" expanded="true" signature="99:320" placeholder="..." />
+            <marker date="1458706723620" expanded="true" signature="392:468" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -988,14 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.612904">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.1290324">
@@ -1040,9 +1026,17 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.612904">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Styles/Stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.451612">
+        <state vertical-scroll-proportion="36.419353">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding />
         </state>
@@ -1050,12 +1044,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51703876">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.25851938">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
-            <marker date="1458705231612" expanded="true" signature="99:320" placeholder="..." />
-            <marker date="1458705231612" expanded="true" signature="400:1262" placeholder="..." />
-            <marker date="1458705231612" expanded="true" signature="1333:1800" placeholder="..." />
+            <marker date="1458706723620" expanded="true" signature="99:320" placeholder="..." />
+            <marker date="1458706723620" expanded="true" signature="392:468" placeholder="..." />
           </folding>
         </state>
       </provider>
