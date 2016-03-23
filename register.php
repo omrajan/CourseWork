@@ -2,7 +2,7 @@
 
 	include("connection.php");
 	include("submit.php");
-
+	include 'Template.php';
 ?>
 <!doctype html>
 <html>
@@ -72,16 +72,6 @@
 					<input name="number" type="tel" class="input" size="25" required />
 				</td>
 
-				<tr>
-					<td height="23" style="font-weight: bold">
-							<div align="right">
-								<label for="password">Password</label>
-							</div>
-					</td>
-					<td>
-							<input name="password" type="password" class="input" size="25" required />
-					</td>
-				</tr>
 				<tr>
 					<td height="23"></td>
 					<td>
