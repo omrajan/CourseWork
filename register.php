@@ -21,7 +21,7 @@
 		<ul>
 			<li><a href="../index.php">Home Page</a></li>
 			<!--li><a href="../submit.php">Submit</a></li-->
-			<li><a href="register.php">Register</a></li>
+			<!--li><a href="register.php">Register</a></li-->
 		</ul>
 	</nav>
 </header>
@@ -42,6 +42,15 @@
 							<input name="name" type="text" class="input" size="25" required />
 					</td>
 				</tr>
+				</tr>
+				<td height="23" style="font-weight: bold">
+					<div align="right">
+						<label for="password">Password</label>
+					</div>
+				</td>
+				<td>
+					<input name="password" type="password" class="input" size="25" required />
+				</td>
 				<tr>
 					<td style="font-weight: bold">
 							<div align="right">
@@ -52,6 +61,17 @@
 							<input name="email" type="email" class="input" size="25" required />
 					</td>
 				</tr>
+
+				</tr>
+				<td height="23" style="font-weight: bold">
+					<div align="right">
+						<label for="number">Phone Extension</label>
+					</div>
+				</td>
+				<td>
+					<input name="number" type="tel" class="input" size="25" required />
+				</td>
+
 				<tr>
 					<td height="23" style="font-weight: bold">
 							<div align="right">

@@ -13,7 +13,7 @@
             <nav id="navigation">
                 <ul id="nav">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="register.php">Coffee</a></li>
+                    <li><a href="register.php">Register here</a></li>
                     <li><a href="#">Shop</a></li>
                     <li><a href="#">About</a></li>
                 </ul>
