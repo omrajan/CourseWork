@@ -113,19 +113,8 @@ include("connection.php");
 <body>
 
 <header>
-    <h1>Please Enter your comments related to Bug!!!</h1>
-
-    <nav>
-        <ul>
-            <li><a href="index.php">Home Page</a></li>
-            <li><a href="comment.php">Comments</a></li>
-            <li><a href="bug.php">Bugs</a></li>
-            <li><a href="register.php">Register</a></li>
-
-        </ul>
-    </nav>
+    <h1>Enter your comments related to Bug!</h1>
 </header>
-
 
 <form method="post" action="">
     <fieldset>
