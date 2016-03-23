@@ -2,7 +2,7 @@
 
 	include("connection.php");
 	include("submit.php");
-	include 'Template.php';
+
 ?>
 <!doctype html>
 <html>
