@@ -41,12 +41,9 @@
       <file leaf-file-name="bug.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bug.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.9130435">
-              <caret line="210" column="0" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
-              <folding>
-                <marker date="1458769237814" expanded="true" signature="3468:3500" placeholder="SELECT FROM users... " />
-                <marker date="1458769237814" expanded="true" signature="3468:3501" placeholder="SELECT * FRO... bugs" />
-              </folding>
+            <state vertical-scroll-proportion="0.8190364">
+              <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -475,7 +472,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458749497901</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Added registration">
+      <created>1458769611478</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1458769611478</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -852,12 +855,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bug.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.9130435">
-          <caret line="210" column="0" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
-          <folding>
-            <marker date="1458769237814" expanded="true" signature="3468:3500" placeholder="SELECT FROM users... " />
-            <marker date="1458769237814" expanded="true" signature="3468:3501" placeholder="SELECT * FRO... bugs" />
-          </folding>
+        <state vertical-scroll-proportion="0.8190364">
+          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
