@@ -15,7 +15,7 @@
 <body>
 
 <header>
-	<h1>My Mug Tracker Website</h1>
+	<h1>RP Bug Tracking System</h1>
 
 	<nav>
 		<ul>

@@ -21,7 +21,7 @@ include("submit.php");
         <ul>
             <li><a href="index.php">Home Page</a></li>
             <li><a href="bug.php">Bugs</a></li>
-            <li><a href="comment.php">Bugs</a></li>
+            <li><a href="comment.php">Comments</a></li>
             <li><a href="register.php">Register</a></li>
 
         </ul>
@@ -97,7 +97,7 @@ include("submit.php");
                 <td height="23"></td>
                 <td>
                     <div align="right">
-                        <input type="submit" name="submit" value="Register!" />
+                        <input type="submit" name="submit" value="Submit!" />
                     </div>
                 </td>
             </tr>

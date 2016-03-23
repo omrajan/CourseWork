@@ -1,14 +1,11 @@
 <?php
 $title = "Home";
 $content = '<img src="Images/coffee1.png" class="imgLeft" />
-<h3>Title 1</h3>
+<h3>Our Goal</h3>
 <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lectus urna,
-    viverra in luctus quis, ullamcorper quis lorem. Vestibulum vulputate pellentesque
-    velit, et placerat dolor pulvinar in. Class aptent taciti sociosqu ad litora torquent
-    per conubia nostra, per inceptos himenaeos. Sed sit amet velit at purus elementum
-    dapibus. Nulla dapibus auctor vulputate. Sed cursus nisi at mauris mollis semper.
-    Vestibulum consectetur cursus dui sit amet pretium.
+    Our Bug Entry System is mainly designed to track all kind of Bugs that has been logged
+    and find methods for preventing programmers from inadvertently introducing bugs
+    while writing software.These include
 </p>
 
 <img src="Images/coffee2.png" class="imgRight"/>
