@@ -6,7 +6,7 @@ include("connection.php");
 <!doctype html>
 <html>
 <head>
-    <link rel="style" type="text/css" href="login/style.css">
+    <link rel="stylesheet" type="text/css" href="login/style.css">
 </head>
 
 <nav>
@@ -22,6 +22,7 @@ include("connection.php");
 
 <form method="post" action="">
     <fieldset>
+
         <table width="400" border="0" cellpadding="10" cellspacing="10">
             <tr>
                 <td colspan="2" align="center" class="error"><?php echo $msg;?></td>
