@@ -9,7 +9,7 @@
 <head>
 <meta charset="utf-8">
 <title>Registration Form</title>
-<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+<link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css">
 </head>
 
 <body>
@@ -19,7 +19,7 @@
 
 	<nav>
 		<ul>
-			<li><a href="../index.php">Home Page</a></li>
+			<li><a href="index.php">Home Page</a></li>
 			<!--li><a href="../submit.php">Submit</a></li-->
 			<!--li><a href="register.php">Register</a></li-->
 		</ul>
