@@ -104,25 +104,6 @@ include("buglist.php");
         </table>
     </fieldset>
 </form>
-<!--/body>
-    <div id ="content">
-        <?php
-            include("connection.php")
-            $sql="SELECT* FROM bugs WHERE bugs.ID= ".$_GET["id"];
-            $result=mysqli_query($db,$sql);
-            $row=mysqli_fetch_assoc($result);
-            $bugTitle=$row['title'];
-            $bugTitle=$row['ID'];
-            $bugTitle=$row['desc'];
-
-            echo "<h2>".$bugTitle."</h2>h2>";
-            echo "<h2>".$bugTitle."</h2>h2>";
-
-        ?>
-    </div>
-</body-->
-
-<!-- COMMENT -->
 
 <head>
     <meta charset="utf-8">
