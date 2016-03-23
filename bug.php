@@ -1,7 +1,7 @@
 <?php
 
 include("connection.php");
-include("submit.php");
+include("buglist.php");
 
 ?>
 <!doctype html>
@@ -21,8 +21,8 @@ include("submit.php");
         <ul>
             <li><a href="index.php">Home Page</a></li>
             <li><a href="bug.php">Bugs</a></li>
-            <li><a href="comment.php">Comments</a></li>
-            <li><a href="register.php">Register</a></li>
+            <!--li><a href="comment.php">Comments</a></li>
+            <li><a href="register.php">Register</a></li-->
 
         </ul>
     </nav>
