@@ -41,8 +41,8 @@
       <file leaf-file-name="bug.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bug.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1280847">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            <state vertical-scroll-proportion="-1.1974148">
+              <caret line="86" column="12" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#fieldset#0;n#form#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#fieldset#0;n#form#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -523,7 +523,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458771257295</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Added registration">
+      <created>1458771495012</created>
+      <option name="number" value="00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1458771495012</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -900,8 +906,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bug.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1280847">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state vertical-scroll-proportion="-1.1974148">
+          <caret line="86" column="12" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#fieldset#0;n#form#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#fieldset#0;n#form#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />

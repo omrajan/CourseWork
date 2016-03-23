@@ -9,22 +9,14 @@ include("connection.php");
 <nav>
     <ul>
         <li><a href="index.php">Home Page</a></li>
-        <!--li><a href="comment.php">Comments</a></li>
-        <li><a href="register.php">Register</a></li-->
-
     </ul>
 </nav>
-<!--head>
-    <meta charset="utf-8">
-    <title>Bug Entry Form</title>
-    <link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css">
-</head-->
 
 <body>
 
 <header>
     <h1>Enter Bug details below!!!</h1>
-    
+
 </header>
 
 <form method="post" action="">
@@ -92,14 +84,7 @@ include("connection.php");
                     <input name="fixed" type="text" class="input" size="25" required />
                 </td>
             </tr>
-            <!--tr>
-                <td height="23"></td>
-                <td>
-                    <div align="right">
-                        <input type="submit" name="submit" value="Submit!" />
-                    </div>
-                </td>
-            </tr-->
+            
         </table>
     </fieldset>
 </form>
