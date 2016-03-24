@@ -99,6 +99,7 @@ include("connection.php");
 </form>
 
 <?php
+include("connection.php");
 
 $target_dir = "uploads/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
