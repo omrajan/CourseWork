@@ -95,7 +95,7 @@ include("connection.php");
 <form method="post" enctype="multipart/form-data">
     Select file to upload:
     <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="submit" value="Upload Image" name="submit">
+    <input type="submit" value="Upload File" name="submit">
 </form>
 
 <?php
@@ -116,8 +116,7 @@ if(isset($_POST['upload']) && $_FILES['userfile']['size'] > 0)
         $fileName = addslashes($fileName);
     }
 
-    include 'library/config.php';
-    include 'library/opendb.php';
+    include 'connection.php';
 
     $query = "INSERT INTO upload (name, size, type, content ) ".
         "VALUES ('$fileName', '$fileSize', '$fileType', '$content')";
