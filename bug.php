@@ -93,12 +93,44 @@ include("connection.php");
 <body>
 
 <form action="upload.php" method="post" enctype="multipart/form-data">
-    Select image to upload:
+    Select file to upload:
     <input type="file" name="fileToUpload" id="fileToUpload">
     <input type="submit" value="Upload Image" name="submit">
 </form>
 
 <?php
+if(isset($_POST['upload']) && $_FILES['userfile']['size'] > 0)
+{
+    $fileName = $_FILES['userfile']['name'];
+    $tmpName  = $_FILES['userfile']['tmp_name'];
+    $fileSize = $_FILES['userfile']['size'];
+    $fileType = $_FILES['userfile']['type'];
+
+    $fp      = fopen($tmpName, 'r');
+    $content = fread($fp, filesize($tmpName));
+    $content = addslashes($content);
+    fclose($fp);
+
+    if(!get_magic_quotes_gpc())
+    {
+        $fileName = addslashes($fileName);
+    }
+
+    include 'library/config.php';
+    include 'library/opendb.php';
+
+    $query = "INSERT INTO upload (name, size, type, content ) ".
+        "VALUES ('$fileName', '$fileSize', '$fileType', '$content')";
+
+    mysql_query($query) or die('Error, query failed');
+    include 'library/closedb.php';
+
+    echo "<br>File $fileName uploaded<br>";
+}
+?>
+
+
+<!--?php
 include("connection.php");
 
 $target_dir = "uploads/";
@@ -122,7 +154,7 @@ if ($uploadOk == 0) {
         echo "Sorry, there was an error uploading your file.";
     }
 }
-?>
+?-->
 
 </body>
 
