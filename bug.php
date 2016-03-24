@@ -1,8 +1,4 @@
-<?php
 
-include("connection.php");
-
-?>
 <!doctype html>
 <html>
 <!--head>
@@ -89,6 +85,27 @@ include("connection.php");
         </table>
     </fieldset>
 </form>
+
+<!--CODE FOR BUG LIST-->
+
+<body>
+    <div id ="content">
+        <?php
+            include("connection.php");
+            $sql="SELECT * FROM bugs WHERE bugs.ID= ".$_GET["id"];
+            $result=mysqli_query($db,$sql);
+            $row=mysqli_fetch_assoc($result);
+            $bugTitle=$row['title'];
+            $bugID=$row['ID'];
+            $bugDesc=$row['desc'];
+
+            echo "<h2>".$bugTitle."</h2>";
+            echo "<p>".$bugDesc."</p>";
+
+        ?>
+    </div>
+</body>
+
 
 <body>
 
