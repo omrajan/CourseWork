@@ -13,9 +13,11 @@
             <nav id="navigation">
                 <ul id="nav">
                     <li><a href="index.php">Home</a></li>
+                    <li><a href ="login/index.php">Login</a></li>
                     <li><a href="register.php">Register here</a></li>
                     <li><a href="bug.php">Bug</a></li>
-                    <li><a href="login/index.php">Login</a></li>
+                    <li><a href="comment.php">Comment</a></li>
+
                 </ul>
             </nav>
             

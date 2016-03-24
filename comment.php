@@ -1,7 +1,6 @@
 <?php
 
 include("connection.php");
-include("submit.php");
 
 ?>
 <!doctype html>
@@ -9,7 +8,7 @@ include("submit.php");
 <head>
     <meta charset="utf-8">
     <title>Bug Entry Form</title>
-    <link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css">
+    <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 
 <body>
@@ -20,9 +19,6 @@ include("submit.php");
     <nav>
         <ul>
             <li><a href="index.php">Home Page</a></li>
-            <li><a href="comment.php">Comments</a></li>
-            <li><a href="bug.php">Bugs</a></li>
-            <li><a href="register.php">Register</a></li>
 
         </ul>
     </nav>
