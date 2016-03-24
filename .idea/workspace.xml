@@ -4,6 +4,7 @@
     <list default="true" id="392b0a4f-5474-43b3-9dc8-bfca1f5fd01b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Styles/Stylesheet.css" afterPath="$PROJECT_DIR$/Styles/Stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="CourseWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,6 +47,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5428907">
+              <caret line="21" column="94" selection-start-line="21" selection-start-column="94" selection-end-line="21" selection-end-column="94" />
+              <folding>
+                <marker date="1458829983183" expanded="true" signature="106:295" placeholder="..." />
+                <marker date="1458829983183" expanded="true" signature="368:500" placeholder="..." />
+                <marker date="1458829983183" expanded="true" signature="368:861" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/register.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stylesheet.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Styles/Stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76733255">
+            <state vertical-scroll-proportion="-21.064516">
               <caret line="116" column="15" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
               <folding />
             </state>
@@ -102,7 +117,6 @@
         <option value="$PROJECT_DIR$/Bug.php" />
         <option value="$PROJECT_DIR$/comment.php" />
         <option value="$PROJECT_DIR$/register.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/submit.php" />
         <option value="$PROJECT_DIR$/buglist.php" />
@@ -112,6 +126,7 @@
         <option value="$PROJECT_DIR$/Template.php" />
         <option value="$PROJECT_DIR$/bug.php" />
         <option value="$PROJECT_DIR$/Styles/Stylesheet.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -319,12 +334,6 @@
       <created>1457734238564</created>
       <option name="number" value="Default" />
       <updated>1457734238564</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added registration">
-      <created>1458417602818</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1458417602818</updated>
     </task>
     <task id="LOCAL-00007" summary="Added registration">
       <created>1458591674964</created>
@@ -614,7 +623,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458787066039</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Added registration">
+      <created>1458827804076</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1458827804076</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -718,8 +733,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1458706723620" expanded="true" signature="99:320" placeholder="..." />
-            <marker date="1458706723620" expanded="true" signature="392:468" placeholder="..." />
+            <marker date="1458829983183" expanded="true" signature="106:295" placeholder="..." />
+            <marker date="1458829983183" expanded="true" signature="368:500" placeholder="..." />
+            <marker date="1458829983183" expanded="true" signature="368:861" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -926,14 +942,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/Template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.4838705">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <marker date="1458706723620" expanded="true" signature="99:320" placeholder="..." />
-            <marker date="1458706723620" expanded="true" signature="392:468" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.37955347">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7419355">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Styles/Stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.064516">
+          <caret line="116" column="15" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -956,27 +985,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Template.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37955347">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7419355">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Styles/Stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76733255">
-          <caret line="116" column="15" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
-          <folding />
+        <state vertical-scroll-proportion="0.5428907">
+          <caret line="21" column="94" selection-start-line="21" selection-start-column="94" selection-end-line="21" selection-end-column="94" />
+          <folding>
+            <marker date="1458829983183" expanded="true" signature="106:295" placeholder="..." />
+            <marker date="1458829983183" expanded="true" signature="368:500" placeholder="..." />
+            <marker date="1458829983183" expanded="true" signature="368:861" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
