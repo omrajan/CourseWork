@@ -7,8 +7,7 @@ include("connection.php");
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Bug Entry Form</title>
-    <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css">
 </head>
 
 <body>
