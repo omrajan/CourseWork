@@ -19,7 +19,7 @@ $content = '<img src="Image/bug.jpg" class="imgLeft" />
 
     Post new bugs, bugs are simply a text description of the code error.
     Attachments: A user should be able to upload an attachment to the bug, this should be a txt file containing some necessary code.
-    Comment on any other bug. Comments are simply text stored to help another user fix a bug. 
+    Comment on any other bug. Comments are simply text stored to help another user fix a bug.
 </p>';
 
 include 'Template.php';
