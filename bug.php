@@ -5,9 +5,9 @@ include("connection.php");
 ?>
 <!doctype html>
 <html>
-<head>
+<!--head>
     <link rel="stylesheet" type="text/css" href="login/style.css">
-</head>
+</head-->
 
 <nav>
     <ul>
