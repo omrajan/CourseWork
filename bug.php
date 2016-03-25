@@ -1,9 +1,9 @@
 
 <!doctype html>
 <html>
-<!--head>
-    <link rel="stylesheet" type="text/css" href="login/style.css">
-</head-->
+<head>
+    <link rel="stylesheet" href="login/style.css" type="text/css" />
+</head>
 
 <nav>
     <ul>
