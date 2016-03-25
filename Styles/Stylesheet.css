@@ -13,6 +13,7 @@ body p
 #wrapper
 {
     width: 1080px;
+    height:1080px;
     background-color: white;
     margin: 0 auto;
     padding: 10px;
