@@ -47,7 +47,7 @@ body p
     padding: 10px;
 }
 
-footer
+/*footer
 {
     clear: both;
     width: auto;
@@ -58,7 +58,7 @@ footer
     color: #fff;
     text-shadow: 0.1em 0.1em #333;
     background-image: url(../Image/background.jpg);
-}
+}*/
 
 #navigation
 {
