@@ -9,7 +9,6 @@
     <body>
         <div id="wrapper">
             <h1>RP Bug Tracking System</h1>
-            <h1> color : "magenta"</h1>
             <div id="banner">             
             </div>
             
