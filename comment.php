@@ -28,7 +28,7 @@ include("connection.php");
 <form method="post" action="">
     <fieldset>
         <!--legend>Bug Entry Form</legend-->
-        <table width="400" border="0" cellpadding="10" cellspacing="10">
+        <table width="400" border="5px solid #dedede" cellpadding="10" cellspacing="10">
             <tr>
                 <td colspan="2" align="center" class="error"><?php echo $msg;?></td>
             </tr>
