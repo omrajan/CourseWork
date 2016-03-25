@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="392b0a4f-5474-43b3-9dc8-bfca1f5fd01b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bug.php" afterPath="$PROJECT_DIR$/bug.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buglist.php" afterPath="$PROJECT_DIR$/buglist.php" />
     </list>
     <ignored path="CourseWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +57,8 @@
       <file leaf-file-name="buglist.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/buglist.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4653349">
-              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.64629847">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
               <folding>
                 <marker date="1458865453255" expanded="true" signature="1622:1640" placeholder="SELECT * FRO... bugs" />
               </folding>
@@ -334,12 +332,6 @@
       <created>1457734238564</created>
       <option name="number" value="Default" />
       <updated>1457734238564</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Added registration">
-      <created>1458696560358</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1458696560358</updated>
     </task>
     <task id="LOCAL-00019" summary="Added registration">
       <created>1458703357816</created>
@@ -629,7 +621,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458864788680</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Added registration">
+      <created>1458865476783</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1458865476783</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1071,8 +1069,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/buglist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4653349">
-          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.64629847">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
           <folding>
             <marker date="1458865453255" expanded="true" signature="1622:1640" placeholder="SELECT * FRO... bugs" />
           </folding>
