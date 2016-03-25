@@ -42,6 +42,14 @@
                 </td>
             </tr>
 
+            <tr>
+                <td height="23"></td>
+                <td>
+                    <div align="right">
+                        <input type="submit" name="submit" value="Submit!" />
+                    </div>
+                </td>
+            </tr>
         </table>
     </fieldset>
 </form>

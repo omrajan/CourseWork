@@ -26,18 +26,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="bug.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bug.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bug.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4829612">
-              <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.806452">
+              <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
               <folding>
-                <marker date="1458864704017" expanded="true" signature="2865:2898" placeholder="SELECT * FRO... bugs" />
-                <marker date="1458864704017" expanded="true" signature="3208:3245" placeholder="SELECT * FRO... comments" />
-                <marker date="1458864704017" expanded="true" signature="3598:3613" placeholder="..." />
-                <marker date="1458864704017" expanded="true" signature="3598:3831" placeholder="..." />
-                <marker date="1458864704017" expanded="true" signature="3650:3807" placeholder="..." />
-                <marker date="1458864704017" expanded="true" signature="4338:4456" placeholder="INSERT INTO upload... " />
+                <marker date="1458865453271" expanded="true" signature="3126:3159" placeholder="SELECT * FRO... bugs" />
+                <marker date="1458865453271" expanded="true" signature="3469:3506" placeholder="SELECT * FRO... comments" />
+                <marker date="1458865453271" expanded="true" signature="3859:3874" placeholder="..." />
+                <marker date="1458865453271" expanded="true" signature="3859:4092" placeholder="..." />
+                <marker date="1458865453271" expanded="true" signature="3911:4068" placeholder="..." />
+                <marker date="1458865453271" expanded="true" signature="4599:4717" placeholder="INSERT INTO upload... " />
               </folding>
             </state>
           </provider>
@@ -56,14 +56,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buglist.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="buglist.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/buglist.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.903225">
-              <caret line="66" column="7" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.4653349">
+              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
               <folding>
-                <marker date="1458863221883" expanded="true" signature="1361:1379" placeholder="SELECT * FRO... bugs" />
+                <marker date="1458865453255" expanded="true" signature="1622:1640" placeholder="SELECT * FRO... bugs" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.290323">
+              <caret line="78" column="33" selection-start-line="75" selection-start-column="12" selection-end-line="82" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,8 +123,8 @@
         <option value="$PROJECT_DIR$/comment.php" />
         <option value="$PROJECT_DIR$/submit.php" />
         <option value="$PROJECT_DIR$/attachment.php" />
-        <option value="$PROJECT_DIR$/buglist.php" />
         <option value="$PROJECT_DIR$/Excluded Files/upload.php" />
+        <option value="$PROJECT_DIR$/buglist.php" />
         <option value="$PROJECT_DIR$/bug.php" />
       </list>
     </option>
@@ -324,12 +334,6 @@
       <created>1457734238564</created>
       <option name="number" value="Default" />
       <updated>1457734238564</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Added registration">
-      <created>1458695415189</created>
-      <option name="number" value="00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1458695415189</updated>
     </task>
     <task id="LOCAL-00018" summary="Added registration">
       <created>1458696560358</created>
@@ -619,7 +623,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458860303627</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Added registration">
+      <created>1458864788680</created>
+      <option name="number" value="00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1458864788680</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -672,12 +682,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1458864704017" expanded="true" signature="2865:2898" placeholder="SELECT * FRO... bugs" />
-            <marker date="1458864704017" expanded="true" signature="3208:3245" placeholder="SELECT * FRO... comments" />
-            <marker date="1458864704017" expanded="true" signature="3598:3613" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="3598:3831" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="3650:3807" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="4338:4456" placeholder="INSERT INTO upload... " />
+            <marker date="1458865453271" expanded="true" signature="3126:3159" placeholder="SELECT * FRO... bugs" />
+            <marker date="1458865453271" expanded="true" signature="3469:3506" placeholder="SELECT * FRO... comments" />
+            <marker date="1458865453271" expanded="true" signature="3859:3874" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="3859:4092" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="3911:4068" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="4599:4717" placeholder="INSERT INTO upload... " />
           </folding>
         </state>
       </provider>
@@ -714,12 +724,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
-            <marker date="1458864704017" expanded="true" signature="2865:2898" placeholder="SELECT * FRO... bugs" />
-            <marker date="1458864704017" expanded="true" signature="3208:3245" placeholder="SELECT * FRO... comments" />
-            <marker date="1458864704017" expanded="true" signature="3598:3613" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="3598:3831" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="3650:3807" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="4338:4456" placeholder="INSERT INTO upload... " />
+            <marker date="1458865453271" expanded="true" signature="3126:3159" placeholder="SELECT * FRO... bugs" />
+            <marker date="1458865453271" expanded="true" signature="3469:3506" placeholder="SELECT * FRO... comments" />
+            <marker date="1458865453271" expanded="true" signature="3859:3874" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="3859:4092" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="3911:4068" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="4599:4717" placeholder="INSERT INTO upload... " />
           </folding>
         </state>
       </provider>
@@ -745,12 +755,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
           <folding>
-            <marker date="1458864704017" expanded="true" signature="2865:2898" placeholder="SELECT * FRO... bugs" />
-            <marker date="1458864704017" expanded="true" signature="3208:3245" placeholder="SELECT * FRO... comments" />
-            <marker date="1458864704017" expanded="true" signature="3598:3613" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="3598:3831" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="3650:3807" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="4338:4456" placeholder="INSERT INTO upload... " />
+            <marker date="1458865453271" expanded="true" signature="3126:3159" placeholder="SELECT * FRO... bugs" />
+            <marker date="1458865453271" expanded="true" signature="3469:3506" placeholder="SELECT * FRO... comments" />
+            <marker date="1458865453271" expanded="true" signature="3859:3874" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="3859:4092" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="3911:4068" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="4599:4717" placeholder="INSERT INTO upload... " />
           </folding>
         </state>
       </provider>
@@ -1006,14 +1016,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="13.4838705">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5428907">
@@ -1044,27 +1046,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/buglist.php">
+    <entry file="file://$PROJECT_DIR$/comment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.903225">
-          <caret line="66" column="7" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="7" />
-          <folding>
-            <marker date="1458863221883" expanded="true" signature="1361:1379" placeholder="SELECT * FRO... bugs" />
-          </folding>
+        <state vertical-scroll-proportion="-21.290323">
+          <caret line="78" column="33" selection-start-line="75" selection-start-column="12" selection-end-line="82" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bug.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4829612">
-          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.806452">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
           <folding>
-            <marker date="1458864704017" expanded="true" signature="2865:2898" placeholder="SELECT * FRO... bugs" />
-            <marker date="1458864704017" expanded="true" signature="3208:3245" placeholder="SELECT * FRO... comments" />
-            <marker date="1458864704017" expanded="true" signature="3598:3613" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="3598:3831" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="3650:3807" placeholder="..." />
-            <marker date="1458864704017" expanded="true" signature="4338:4456" placeholder="INSERT INTO upload... " />
+            <marker date="1458865453271" expanded="true" signature="3126:3159" placeholder="SELECT * FRO... bugs" />
+            <marker date="1458865453271" expanded="true" signature="3469:3506" placeholder="SELECT * FRO... comments" />
+            <marker date="1458865453271" expanded="true" signature="3859:3874" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="3859:4092" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="3911:4068" placeholder="..." />
+            <marker date="1458865453271" expanded="true" signature="4599:4717" placeholder="INSERT INTO upload... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buglist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4653349">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <marker date="1458865453255" expanded="true" signature="1622:1640" placeholder="SELECT * FRO... bugs" />
           </folding>
         </state>
       </provider>
