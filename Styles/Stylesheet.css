@@ -13,7 +13,7 @@ body p
 #wrapper
 {
     width: 1080px;
-    height:1080px;
+    height:1060px;
     background-color: white;
     margin: 0 auto;
     padding: 10px;
@@ -47,18 +47,18 @@ body p
     padding: 10px;
 }
 
-/*footer
+footer
 {
     clear: both;
     width: auto;
-    height: 40px;
+    height: auto;
     padding: 10px;
     border: 3px solid #E3E3E3;
     text-align: center;
     color: #fff;
     text-shadow: 0.1em 0.1em #333;
     background-image: url(../Image/background.jpg);
-}*/
+}
 
 #navigation
 {
