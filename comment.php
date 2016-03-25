@@ -40,7 +40,7 @@ include("connection.php");
                     </div>
                 </td>
                 <td>
-                    <input name="desc" type="text" class="input" size="25" required />
+                    <input name="desc" type="text" class="input" size="50" required />
                 </td>
             </tr>
             <tr>
