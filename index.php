@@ -1,6 +1,11 @@
 <?php
+
 $title = "Home";
 $content = '<img src="Image/bug.jpg" class="imgLeft" />
+<header>
+	<h1>RP Bug Tracking System</h1>
+</header>
+
 <h3>ABOUT THIS PAGE</h3>
 <p>
     This page is for logging simple Bugs and track that has been logged
