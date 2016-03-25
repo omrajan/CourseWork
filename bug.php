@@ -144,19 +144,13 @@ if(isset($_POST['upload']) && $_FILES['userfile']['size'] > 0)
     $content = fread($fp, filesize($tmpName));
     $content = addslashes($content);
     fclose($fp);
-
-    if(!get_magic_quotes_gpc())
-    {
-        $fileName = addslashes($fileName);
-    }
-
+    
     include 'connection.php';
 
     $query = "INSERT INTO upload (name, size, type, content ) ".
         "VALUES ('$fileName', '$fileSize', '$fileType', '$content')";
 
-    mysql_query($query) or die('Error, query failed');
-    include 'library/closedb.php';
+    ($query) or die('Error, query failed');
 
     echo "<br>File $fileName uploaded<br>";
 }
