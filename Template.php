@@ -5,6 +5,10 @@
         <title><?php echo $title; ?></title>
         <link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css" />
     </head>
+    <header>
+        <h1>RP Bug Tracking System</h1>
+    </header>
+
     <body>
         <div id="wrapper">
             <div id="banner">             

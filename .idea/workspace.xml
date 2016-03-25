@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="392b0a4f-5474-43b3-9dc8-bfca1f5fd01b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Template.php" afterPath="$PROJECT_DIR$/Template.php" />
     </list>
     <ignored path="CourseWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,20 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Template.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Template.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.935484">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.23266745">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18096358">
+            <state vertical-scroll-proportion="-4.967742">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <marker date="1458885365808" expanded="true" signature="87:130" placeholder="..." />
@@ -152,13 +152,13 @@
         <option value="$PROJECT_DIR$/attachment.php" />
         <option value="$PROJECT_DIR$/Excluded Files/upload.php" />
         <option value="$PROJECT_DIR$/buglist.php" />
-        <option value="$PROJECT_DIR$/Template.php" />
         <option value="$PROJECT_DIR$/login/home.php" />
         <option value="$PROJECT_DIR$/bug.php" />
         <option value="$PROJECT_DIR$/comment.php" />
         <option value="$PROJECT_DIR$/register.php" />
         <option value="$PROJECT_DIR$/Styles/Stylesheet.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Template.php" />
       </list>
     </option>
   </component>
@@ -381,12 +381,6 @@
       <created>1457734238564</created>
       <option name="number" value="Default" />
       <updated>1457734238564</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Added registration">
-      <created>1458771257295</created>
-      <option name="number" value="00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1458771257295</updated>
     </task>
     <task id="LOCAL-00039" summary="Added registration">
       <created>1458771495012</created>
@@ -676,7 +670,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458884307380</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Added registration">
+      <created>1458885369916</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1458885369916</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1114,14 +1114,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.935484">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Styles/Stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.8387096">
@@ -1140,13 +1132,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18096358">
+        <state vertical-scroll-proportion="-4.967742">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <marker date="1458885365808" expanded="true" signature="87:130" placeholder="..." />
             <marker date="1458885365808" expanded="true" signature="160:349" placeholder="..." />
             <marker date="1458885365808" expanded="true" signature="422:914" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23266745">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
