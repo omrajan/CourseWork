@@ -7,8 +7,8 @@
     </head>
 
     <body>
-    <h1>RP Bug Tracking System</h1>
         <div id="wrapper">
+            <h1>RP Bug Tracking System</h1>
             <div id="banner">             
             </div>
             
