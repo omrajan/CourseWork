@@ -7,7 +7,8 @@ include("connection.php");
 <html>
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css">
+    <!--link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css"-->
+    <link rel="stylesheet" href="login/style.css" type="text/css" />
 </head>
 
 <body>
@@ -26,7 +27,7 @@ include("connection.php");
 
 <form method="post" action="">
     <fieldset>
-        <legend>Bug Entry Form</legend>
+        <!--legend>Bug Entry Form</legend-->
         <table width="400" border="0" cellpadding="10" cellspacing="10">
             <tr>
                 <td colspan="2" align="center" class="error"><?php echo $msg;?></td>
